@@ -1,0 +1,5 @@
+{<img src="https://codeclimate.com/github/graf-abolmasov/cows-and-bulls/badges/gpa.svg" />}[https://codeclimate.com/github/graf-abolmasov/cows-and-bulls] {<img src="https://codeclimate.com/github/graf-abolmasov/cows-and-bulls/badges/coverage.svg" />}[https://codeclimate.com/github/graf-abolmasov/cows-and-bulls] {<img src="https://semaphoreapp.com/api/v1/projects/734e7278-5cc1-4914-8ef6-61f38067cce7/232255/shields_badge.png">}[https://semaphoreapp.com/apv1989/cows-and-bulls/branches/master]
+
+== README
+
+Read rules at Wikipedia.org http://en.wikipedia.org/wiki/Bulls_and_cows

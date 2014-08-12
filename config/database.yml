@@ -1,0 +1,18 @@
+default: &default
+  username: postgres
+  password: postgres
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+
+development:
+  <<: *default
+  database: cows_and_bulls
+
+test:
+  <<: *default
+  database: cows_and_bulls_test
+
+production:
+  <<: *default
+  database: cows_and_bulls
